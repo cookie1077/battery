@@ -1,0 +1,2 @@
+Iteration,Average RMSE,RMSE Std Dev,Average R2,R2 Std Dev,Max RMSE Data Name,Max RMSE Value,Min R2 Data Name,Min R2 Value
+0,0.16562591,0.03145399,0.7152134907305666,0.1424350386693684,dataset_cell_#30,0.22345698,dataset_cell_#30,0.33370602805332017

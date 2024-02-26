@@ -1,0 +1,210 @@
+Iteration 0
+Average RMSE: 0.13797630369663239, Std Dev: 0.016591360792517662
+Average R2: 0.7865605482164326, Std Dev: 0.08527099307506954
+Data Name with Highest RMSE: dataset_cell_#67, RMSE: 0.16957561671733856
+Data Name with Smallest R2: dataset_cell_#67, R2: 0.5524396189964991
+
+Iteration 1
+Average RMSE: 0.14776809513568878, Std Dev: 0.02687942050397396
+Average R2: 0.7455692255945603, Std Dev: 0.12058444666067472
+Data Name with Highest RMSE: dataset_cell_#47, RMSE: 0.19884413480758667
+Data Name with Smallest R2: dataset_cell_#47, R2: 0.5325026705385912
+
+Iteration 2
+Average RMSE: 0.13144856691360474, Std Dev: 0.019082728773355484
+Average R2: 0.8032462361393715, Std Dev: 0.08424726215486152
+Data Name with Highest RMSE: dataset_cell_#47, RMSE: 0.17330245673656464
+Data Name with Smallest R2: dataset_cell_#67, R2: 0.6440076395263936
+
+Iteration 0
+Average RMSE: 0.14088769257068634, Std Dev: 0.021082187071442604
+Average R2: 0.7935649145462552, Std Dev: 0.0841260083744675
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17526227235794067
+Data Name with Smallest R2: dataset_cell_#30, R2: 0.6284933700874042
+
+Iteration 0
+Average RMSE: 0.12406765669584274, Std Dev: 0.024901550263166428
+Average R2: 0.840781416583717, Std Dev: 0.07083777589449361
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17284084856510162
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.6990707461718212
+
+Iteration 0
+Average RMSE: 0.1150275468826294, Std Dev: 0.02745886892080307
+Average R2: 0.8604427084165098, Std Dev: 0.07644796238130597
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17707720398902893
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.6841382946036518
+
+Iteration 0
+Average RMSE: 0.12226507812738419, Std Dev: 0.026301546022295952
+Average R2: 0.845066012649725, Std Dev: 0.06946626420225431
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.16913191974163055
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.7118472289003932
+
+Iteration 0
+Average RMSE: 0.12739823758602142, Std Dev: 0.024468401446938515
+Average R2: 0.8324805368078274, Std Dev: 0.07441460389974022
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17492814362049103
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.6917585659095484
+
+Iteration 0
+Average RMSE: 0.1257169097661972, Std Dev: 0.024135563522577286
+Average R2: 0.8365192034254534, Std Dev: 0.06937406600080821
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17039600014686584
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.7075238590149013
+
+Iteration 0
+Average RMSE: 0.13900691270828247, Std Dev: 0.02162427082657814
+Average R2: 0.8144420095842847, Std Dev: 0.07396972107187899
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.16379223763942719
+Data Name with Smallest R2: dataset_cell_#30, R2: 0.6639116044881777
+
+Iteration 0
+Average RMSE: 0.1436363309621811, Std Dev: 0.022701146081089973
+Average R2: 0.8010700093975373, Std Dev: 0.08243908856518312
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.18112649023532867
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.6567917735713078
+
+Iteration 1
+Average RMSE: 0.12617821991443634, Std Dev: 0.026271503418684006
+Average R2: 0.8341911740895469, Std Dev: 0.07960176878486196
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.1876480132341385
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.6453012962484292
+
+Iteration 2
+Average RMSE: 0.1239115297794342, Std Dev: 0.029100697487592697
+Average R2: 0.7957476665403235, Std Dev: 0.08939501569413895
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.1754264384508133
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.6588900961288249
+
+Iteration 0
+Average RMSE: 0.341307669878006, Std Dev: 0.028143100440502167
+Average R2: -0.13590189055068766, Std Dev: 0.11787175004978266
+Data Name with Highest RMSE: dataset_cell_#71, RMSE: 0.37740248441696167
+Data Name with Smallest R2: dataset_cell_#3, R2: -0.3260562409362897
+
+Iteration 0
+Average RMSE: 0.1233072280883789, Std Dev: 0.02340017445385456
+Average R2: 0.8449560177441433, Std Dev: 0.06280375126726595
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.16946062445640564
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.7107261355875274
+
+Iteration 1
+Average RMSE: 0.19406676292419434, Std Dev: 0.015352359041571617
+Average R2: 0.6149316395139279, Std Dev: 0.1239243347518263
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.22547440230846405
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.41783574792017975
+
+Iteration 2
+Average RMSE: 0.3430083990097046, Std Dev: 0.029091287404298782
+Average R2: -0.14760033017721894, Std Dev: 0.1257122715024715
+Data Name with Highest RMSE: dataset_cell_#71, RMSE: 0.3847571313381195
+Data Name with Smallest R2: dataset_cell_#25, R2: -0.35276492276486615
+
+Iteration 3
+Average RMSE: 0.343749463558197, Std Dev: 0.029650142416357994
+Average R2: -0.1528601932463711, Std Dev: 0.13175176451782997
+Data Name with Highest RMSE: dataset_cell_#71, RMSE: 0.38724637031555176
+Data Name with Smallest R2: dataset_cell_#25, R2: -0.3763731769305383
+
+Iteration 0
+Average RMSE: 0.20354461669921875, Std Dev: 0.03757716715335846
+Average R2: 0.5639110759041105, Std Dev: 0.21092855715464381
+Data Name with Highest RMSE: dataset_cell_#30, RMSE: 0.25751492381095886
+Data Name with Smallest R2: dataset_cell_#30, R2: 0.11512314216768726
+
+Iteration 1
+Average RMSE: 0.18077991902828217, Std Dev: 0.037474241107702255
+Average R2: 0.6525118757260567, Std Dev: 0.18618550153166252
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.24361327290534973
+Data Name with Smallest R2: dataset_cell_#30, R2: 0.3058339795849824
+
+Iteration 2
+Average RMSE: 0.143051415681839, Std Dev: 0.017698949202895164
+Average R2: 0.794598770769949, Std Dev: 0.056939402650373026
+Data Name with Highest RMSE: dataset_cell_#31, RMSE: 0.168417289853096
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.7143220176743013
+
+Iteration 0
+Average RMSE: 0.14427796006202698, Std Dev: 0.029656026512384415
+Average R2: 0.78051818914982, Std Dev: 0.11423254341100877
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.21346169710159302
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.5410012101192987
+
+Iteration 0
+Average RMSE: 0.12726281583309174, Std Dev: 0.028558755293488503
+Average R2: 0.8298376880260903, Std Dev: 0.08100231218128981
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17837397754192352
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.6794951043005355
+
+Iteration 0
+Average RMSE: 0.12764224410057068, Std Dev: 0.02474396489560604
+Average R2: 0.8317132000180717, Std Dev: 0.07288791084276135
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.18400555849075317
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.6589378064031304
+
+Iteration 0
+Average RMSE: 0.17637866735458374, Std Dev: 0.02103033848106861
+Average R2: 0.6814545938597235, Std Dev: 0.11692747989392337
+Data Name with Highest RMSE: dataset_cell_#30, RMSE: 0.2059352844953537
+Data Name with Smallest R2: dataset_cell_#30, R2: 0.43410013975268213
+
+Iteration 0
+Average RMSE: 0.12258617579936981, Std Dev: 0.023907538503408432
+Average R2: 0.8426835901568878, Std Dev: 0.07546533604499953
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17099985480308533
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.7054472147460182
+
+Iteration 0
+Average RMSE: 0.12371563166379929, Std Dev: 0.02479105070233345
+Average R2: 0.8425410789300493, Std Dev: 0.0695575988145194
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.1771939992904663
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.6837214514736598
+
+Iteration 0
+Average RMSE: 0.13242919743061066, Std Dev: 0.020153632387518883
+Average R2: 0.8214419879957388, Std Dev: 0.06083582942987068
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.17083992063999176
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.7059979014638245
+
+Iteration 0
+Average RMSE: 0.24721075594425201, Std Dev: 0.04279056563973427
+Average R2: 0.3780948444770175, Std Dev: 0.23853838389212623
+Data Name with Highest RMSE: dataset_cell_#71, RMSE: 0.3013187050819397
+Data Name with Smallest R2: dataset_cell_#30, R2: -0.07032554581389916
+
+Iteration 0
+Average RMSE: 0.15747323632240295, Std Dev: 0.03195122629404068
+Average R2: 0.7077328385851941, Std Dev: 0.12699868504350167
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.22647765278816223
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.4360659410828285
+
+Iteration 0
+Average RMSE: 0.15927313268184662, Std Dev: 0.035253994166851044
+Average R2: 0.7286329030268628, Std Dev: 0.1483076329874407
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.23357540369033813
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.44429069849455405
+
+Iteration 0
+Average RMSE: 0.15182238817214966, Std Dev: 0.032590899616479874
+Average R2: 0.7248782266756152, Std Dev: 0.13229697123922282
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.22057893872261047
+Data Name with Smallest R2: dataset_cell_#25, R2: 0.46505933263378163
+
+Iteration 0
+Average RMSE: 0.15740108489990234, Std Dev: 0.021434074267745018
+Average R2: 0.7649328657203287, Std Dev: 0.1042690805229866
+Data Name with Highest RMSE: dataset_cell_#30, RMSE: 0.18534332513809204
+Data Name with Smallest R2: dataset_cell_#30, R2: 0.5217456970641642
+
+Iteration 0
+Average RMSE: 0.26634857058525085, Std Dev: 0.039300329983234406
+Average R2: 0.28700700983476557, Std Dev: 0.2314384279608812
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.32063931226730347
+Data Name with Smallest R2: dataset_cell_#30, R2: -0.12424727692598525
+
+Iteration 0
+Average RMSE: 0.2707532048225403, Std Dev: 0.04320964589715004
+Average R2: 0.2544960330084201, Std Dev: 0.2777597836497142
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.32379597425460815
+Data Name with Smallest R2: dataset_cell_#30, R2: -0.26728861006297344
+

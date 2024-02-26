@@ -1,0 +1,48 @@
+Iteration 0
+Average RMSE: 0.4295937418937683, Std Dev: 0.04980294778943062
+Average R2: -0.7188627662957833, Std Dev: 0.5991266025330593
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.5059489607810974
+Data Name with Smallest R2: dataset_cell_#30, R2: -1.880689485013853
+
+Iteration 0
+Average RMSE: 0.1699484884738922, Std Dev: 0.0947786495089531
+Average R2: 0.6276213258428005, Std Dev: 0.3396730183063459
+Data Name with Highest RMSE: dataset_cell_#25, RMSE: 0.289463073015213
+Data Name with Smallest R2: dataset_cell_#30, R2: 0.010470707499225185
+
+Iteration 0
+Average RMSE: 0.049805738031864166, Std Dev: 0.033087726682424545
+Average R2: 0.9652366032990514, Std Dev: 0.06471653898835744
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.14969007670879364
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.7616163862082312
+
+Iteration 0
+Average RMSE: 0.05937844514846802, Std Dev: 0.03459089249372482
+Average R2: 0.9544880100306081, Std Dev: 0.0686223925902438
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.15551340579986572
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.7427081183871774
+
+Iteration 0
+Average RMSE: 0.09249503910541534, Std Dev: 0.04067037254571915
+Average R2: 0.9016109586780957, Std Dev: 0.0999419477747649
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.18208518624305725
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.647272228086146
+
+Iteration 0
+Average RMSE: 0.06660716980695724, Std Dev: 0.02871142514050007
+Average R2: 0.9490728118192167, Std Dev: 0.05047337293407862
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.1320340931415558
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.8145347120293086
+
+Iteration 0
+Average RMSE: 0.06690293550491333, Std Dev: 0.03518737852573395
+Average R2: 0.9457700272079489, Std Dev: 0.07405392796969719
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.1628396362066269
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.7178950501165571
+
+Iteration 0
+Average RMSE: 0.08430717140436172, Std Dev: 0.03516506403684616
+Average R2: 0.9206656204005732, Std Dev: 0.08920867304297712
+Data Name with Highest RMSE: dataset_cell_#76, RMSE: 0.18100401759147644
+Data Name with Smallest R2: dataset_cell_#76, R2: 0.6514486287725699
+
